@@ -6,9 +6,9 @@ This project is awesome...
 
 ## Team members
 
-1. [Midhun Mathew] (https://github.com/memidhun)
+1. [Midhun Mathew](https://github.com/memidhun)
 2. [Akhil Philip Varghese](https://github.com/AkhilPhili)
-3. [Alhaarith Hakkim] (https://github.com/allhaarithh)
+3. [Alhaarith Hakkim](https://github.com/allhaarithh)
 
 ## Team Id
 
