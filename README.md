@@ -1,19 +1,43 @@
-![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
+![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
+
 # Project Name
+
 Long Description about project. This project do that. This project is awesome...
+
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+
+1. Midhun Mathew[https://github.com/memidhun]
+2. Akhil Philip Varghese[https://github.com/AkhilPhili]
+3. Alhaarith Hakkim [https://github.com/allhaarithh]
+
 ## Team Id
-Team id here
+
+spotlight
+
 ## Link to product walkthrough
-[link to video]
+
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+
 ## Libraries used
-Library Name - Version
+
 ## How to configure
-Instructions for setting up project
+
 ## How to Run
-Instructions for running
+
+## Contributions
+
+- Fork the repository and clone your forked version of this repo on your local machine.
+  bash
+  git clone https://github.com/{your_username}/{project}.git
+  cd {project}
+  npm install
+  npm start
+
+## Testing
+
+To run test cases, use following command:
+npm test
+
+## Deployment
+
+This application can be deployed using various deployment platforms like Heroku or AWS Elastic Beanstalk. You need to create a new app in respective platform
