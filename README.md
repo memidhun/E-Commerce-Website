@@ -13,6 +13,8 @@ Step into the future of online shopping with Spotlight E-Commerce Website! As pa
 spotlight
 
 ## Link to product walkthrough
+- You can view the website [HERE](https://memidhun.github.io/stackup-teamplate/)
+- [Video Demo]() 
 
 ## How it Works?
 
@@ -39,4 +41,13 @@ To execute the project locally:
  
 ## Deployment
 
-This application can be deployed using various deployment platforms like Heroku or AWS Elastic Beanstalk. You need to create a new app on the respective platform.
+This application can be deployed using Firebase 
+1. Install the Firebase CLI by running `npm install -g firebase-tools`.
+2. Login to your Firebase account using `firebase login`.
+3. Navigate to the project directory.
+4. Run `firebase init` to initialize a Firebase project (select Hosting).
+5. Follow the prompts to set up your Firebase project.
+6. Deploy the application using `firebase deploy`.
+7. Your deployed site will be available at the provided Firebase Hosting URL.
+
+Note : *Sorry our backend part is not done yet!🥲 We are still working on it* 
