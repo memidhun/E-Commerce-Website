@@ -1,6 +1,6 @@
 # ![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
 
-# 🌐 ECommerce Website - Spotlight
+# 🌐 ECommerce Website - By Spotlight
 
 Step into the future of online shopping with Spotlight E-Commerce Website! As part of Stackup organized by TinkerHub, we have honed our design skills to build this with ❤️. The website is built using HTML, CSS, and JavaScript/jQuery, creating a user-friendly platform. Soon, we'll integrate Firebase for improved data handling. Join us on this journey where simplicity meets style!
 
