@@ -33,7 +33,10 @@ To execute the project locally:
 3. Open the 'index.html' file in your browser.
 
 ## Contributions
-
+1. [Midhun Mathew](https://github.com/memidhun) - Frontend Design using HTML & CSS
+2. [Akhil Philip Varghese](https://github.com/AkhilPhili) - Frontend Deisgn using HTML & CSS
+3. [Alhaarith Hakkim](https://github.com/allhaarithh) - Javascript and JQuery
+ 
 ## Deployment
 
 This application can be deployed using various deployment platforms like Heroku or AWS Elastic Beanstalk. You need to create a new app on the respective platform.
