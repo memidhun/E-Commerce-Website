@@ -14,7 +14,7 @@ spotlight
 
 ## Link to product walkthrough
 - You can view the website [HERE](https://memidhun.github.io/stackup-teamplate/)
-- [Video Demo]() 
+- [Video Demo](https://youtu.be/2G5EJq57Hfo) 
 
 ## How it Works?
 
